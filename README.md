@@ -1,1 +1,2 @@
-Proyecto de almacenamiento de artistas y albums
+Proyecto de almacenamiento de artistas y albums.
+Falta inicializar node.
