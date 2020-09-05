@@ -8,8 +8,20 @@
 }
 
 * {
-    max-width: 100%;
+
     padding: 0px;
     margin: 0px;
     box-sizing: border-box;
 }
+
+img {
+    max-width: 50% !important;
+}
+
+/* Footer */
+.linkFooter {
+    text-decoration: none !important;
+    list-style-type: none !important;
+}
+
+/* Fin del footer */
